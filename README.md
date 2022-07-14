@@ -38,7 +38,7 @@ OneSignal.push(function() {
 });
 ```
 
-In the code above, I'm using the [notifyButton](https://documentation.onesignal.com/docs/web-push-sdk#init-notifybutton-parameters) property which will add a bell Icon with the properties specified such as the size and the position.
+In the code above, We are using the [notifyButton](https://documentation.onesignal.com/docs/web-push-sdk#init-notifybutton-parameters) property which will add a bell Icon with the properties specified such as the size and the position.
 
 ### Show Your Support
 
