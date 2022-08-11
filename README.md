@@ -1,4 +1,4 @@
-# OneSignal OneSignal-PushNotification-JavaScript-Sample
+# OneSignal-PushNotification-JavaScript-Sample
 
 <p>
   <a href="https://github.com/OneSignal/onesignal-expo-plugin/graphs/commit-activity" target="_blank">
